@@ -4,7 +4,7 @@
 - :computer: Desenvolvedora na Atena Solutions
 - :woman_student: Estudante de Engenharia de Software
 
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaaroch&show_icons=true&theme=material-palenight)
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaaroch&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
 
 #### Contato
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anaaroch)
