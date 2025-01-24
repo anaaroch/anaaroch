@@ -4,7 +4,8 @@
 -  Desenvolvedora Full Stack na Atena Solutions;
 - Estudante de Engenharia de Software na Universidade de Brasília;
 - Foco em React.js, React Native e TypeScript;
-- Desenvolvimento Web e Mobile.
+- Desenvolvimento Web e Mobile;
+- Contribuinte do movimento Open-Source.
 
 #### Skills
 
