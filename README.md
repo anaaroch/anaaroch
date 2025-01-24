@@ -1,18 +1,10 @@
 ### Oie 👋
 
 ####  Sobre mim
-- :computer: Desenvolvedora na Atena Solutions
-- :woman_student: Estudante de Engenharia de Software
-
-![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaaroch&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
-
-#### Contato
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anaaroch)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqscamposuni@gmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ana_carolineee@hotmail.com)
-
-#### Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-c-rocha-32b76a215/)
+-  Desenvolvedora Full Stack na Atena Solutions;
+- Estudante de Engenharia de Software na Universidade de Brasília;
+- Foco em React.js, React Native e TypeScript;
+- Desenvolvimento Web e Mobile.
 
 #### Skills
 
@@ -24,5 +16,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+#### Contato
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anaaroch)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sqscamposuni@gmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ana_carolineee@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-caroline-c-rocha-32b76a215/)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaaroch&layout=compact&langs_count=7&theme=material-palenight)
+![Ana GitHub stats](https://github-readme-stats.vercel.app/api?username=anaaroch&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true)
